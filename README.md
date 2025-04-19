@@ -1,7 +1,7 @@
 ```js
 console.log(`You think you're protected. But what if the danger is already inside? Nwask knows.`);
 ```
-![banner](https://i.imgur.com/q4E2MoH.gif)
+![banner](https://i.imgur.com/vtZOYqU.png)
 
 <p align="center">
   <a href="https://skillicons.dev">
