@@ -5,7 +5,7 @@ console.log(`You think you're protected. But what if the danger is already insid
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=linux,windows,bash,git,github,py,c,arduino,html,css,js,vscode,androidstudio,aws,azure,blender,cpp,dotnet,figma,firebase,gcp,heroku,mysql,nodejs,php,postman,react,sqlite,ts,unity,unreal)" alt="Skills" />
+    <img src="[https://skillicons.dev/icons?i=linux,windows,bash,git,github,py,c,arduino,html,css,js,vscode,androidstudio,aws,azure,blender,cpp,dotnet,figma,firebase,gcp,heroku,mysql,nodejs,php,postman,react,sqlite,ts,unity,unreal)" alt="Skills" />
   </a>
 </p>
 
