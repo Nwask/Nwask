@@ -1,5 +1,5 @@
 ```js
-console.log(`Segurança não é um produto, é um processo. Vamos hackear o sistema... eticamente.`);
+console.log(`You think you're protected. But what if the danger is already inside? Nwask knows.`);
 ```
 ![banner](https://miro.medium.com/v2/resize:fit:1400/1*1WWTCtV4-7l-rRQJ-GKjAw.gif)
 
