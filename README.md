@@ -15,7 +15,7 @@ console.log(`You think you're protected. But what if the danger is already insid
 </p>
 
 <p align="center">
-  <a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="128px" height="128px" alt="Hacker">
+  <a href="https://giphy.com/gifs/hackers-LcGFscTzOn9xm">
+    <img src="https://media.giphy.com/media/LcGFscTzOn9xm/giphy.gif" width="128px" height="128px" alt="Hacker">
   </a>
 </p>
