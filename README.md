@@ -1,7 +1,7 @@
 ```js
 console.log(`You think you're protected. But what if the danger is already inside? Nwask knows.`);
 ```
-![banner](https://miro.medium.com/v2/resize:fit:1400/1*1WWTCtV4-7l-rRQJ-GKjAw.gif)
+![banner](https://i.imgur.com/q4E2MoH.gif)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,12 +10,12 @@ console.log(`You think you're protected. But what if the danger is already insid
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nwask&theme=dracula&show_icons=true&include_all_commits=true" alt="Nwask's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwask&theme=dracula&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nwask&theme=radical&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" alt="Nwask's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nwask&theme=radical&layout=compact&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/hackers-LcGFscTzOn9xm">
-    <img src="https://media.giphy.com/media/LcGFscTzOn9xm/giphy.gif" width="128px" height="128px" alt="Hacker">
+  <a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="128px" height="128px" alt="Hacker">
   </a>
 </p>
